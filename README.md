@@ -1,6 +1,6 @@
 # Turmas
 
-# Tecnologias Utilozadas
+# Tecnologias Utilizadas
 - Java
 - Spring Boot
 - XAMPP
