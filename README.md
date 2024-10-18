@@ -21,7 +21,7 @@
 - criar uma tabela no banco chamada ( turmas_db )
 
 # Intellij IDEA Community Edition
-- Abrir o Arquivo Aula07 <
+- Abrir o Arquivo Aula07
 - Abrir pasta SRC
 - Abrir pasta main
 - Abrir pasta main
